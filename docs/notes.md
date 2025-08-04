@@ -6,3 +6,4 @@ Notes and usage details for mcp-memory.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
