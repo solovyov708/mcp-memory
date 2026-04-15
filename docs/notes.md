@@ -25,3 +25,4 @@ Notes and usage details for mcp-memory.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
