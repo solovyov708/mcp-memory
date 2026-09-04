@@ -27,3 +27,4 @@ body { font-family: system-ui, sans-serif; margin: 2rem; }
 # avoid re-reading the config on every call
 # guard against empty input
 # match the style used in the rest of the module
+# match the style used in the rest of the module
